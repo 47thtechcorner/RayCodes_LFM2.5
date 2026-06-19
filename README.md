@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://youtu.be/NP_TI6DJ98U">
-    <img src="https://img.youtube.com/vi/NP_TI6DJ98U/0.jpg" alt="Liquid AI LFM 2.5 Released: Lighting Fast RAG with 350M AI (Local Setup)">
+    <img src="https://img.youtube.com/vi/NP_TI6DJ98U/0.jpg" alt="LFM 2.5 Released: 350M Lighting Fast RAG by Liquid AI (Local Setup)">
   </a>
   <h3>📺 <a href="https://youtu.be/NP_TI6DJ98U">Watch the full tutorial on YouTube</a></h3>
 </div>
