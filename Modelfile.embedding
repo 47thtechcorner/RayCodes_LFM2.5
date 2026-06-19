@@ -1,0 +1,1 @@
+FROM ./LFM2.5-Embedding-350M-Q4_K_M.gguf

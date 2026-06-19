@@ -1,0 +1,9 @@
+# Large model weights
+*.gguf
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Local runtime caching
+embeddings_cache.json

@@ -1,0 +1,1 @@
+FROM ./LFM2.5-ColBERT-350M-Q4_0.gguf
